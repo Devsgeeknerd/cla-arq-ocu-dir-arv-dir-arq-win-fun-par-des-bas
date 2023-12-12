@@ -1,5 +1,5 @@
 <!-- Título -->
-# Arquivos Ocultos
+# Arquivos Ocultos no Diretórios
 
 ***Conteúdo da Aula:***
 
